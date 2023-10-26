@@ -1,0 +1,9 @@
+1. install miniconda
+2. required libraries
+2.0) tqdm
+2,1) numpy
+2.2) pythainlp
+2.3) gensim
+2.4) deepcut
+2.5) # CUDA 11.6
+     pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu116

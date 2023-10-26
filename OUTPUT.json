@@ -1,0 +1,4 @@
+{"Topic1": [{"Positive Opinion ": "50.0 %", "Negative Opinion ": "50.0 %"}], 
+ "Topic2": [{"Positive Opinion ": "0.0 %", "Negative Opinion ": "100.0 %"}], 
+ "Topic3": [{"Positive Opinion ": "25.0 %", "Negative Opinion ": "75.0 %"}],
+  "AI Opinion on this Document": [{"Positive Opinion ": "25.0 %", "Negative Opinion ": "75.0 %"}]}
