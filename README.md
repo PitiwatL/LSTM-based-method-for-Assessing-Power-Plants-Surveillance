@@ -1,2 +1,3 @@
 # LSTM-based-method-for-Assessing-Power-Plants-Surveillance
-The code is during preparation....
+This is the ready to used LSTM models. 
+The input need to be structured as can be seen in the INPUT.json0
